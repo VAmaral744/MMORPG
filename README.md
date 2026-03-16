@@ -1,62 +1,3 @@
-<<<<<<< HEAD
-MMORPG
-Desenvolvendo um jogo estilo MMORPG, realizando todo o backEnd em java
-
-RPG Console em Java
-Projeto de estudo desenvolvido em Java com o objetivo de praticar programação orientada a objetos, organização de projetos e lógica de jogos.
-
-O jogo é um RPG simples executado no terminal, onde o jogador cria um herói, recebe equipamentos iniciais de acordo com sua classe e enfrenta inimigos em um sistema básico de combate.
-
-Funcionalidades atuais
-Criação de personagem
-
-Sistema de classes
-
-Warrior
-Hunter
-Mago
-Equipamentos iniciais baseados na classe
-
-Inimigos básicos
-
-Sistema de combate simples
-
-Ganho de experiência ao derrotar inimigos
-
-🧙 Classes do jogo
-Cada classe possui atributos diferentes e equipamentos iniciais próprios.
-
-Classe	Equipamento inicial
-Warrior	Espada e Escudo
-Hunter	Arco e Flechas
-Mago	Cajado
-Inimigos
-Atualmente o jogo possui:
-
-Caranguejo
-Sistema preparado para expansão com novos inimigos como:
-
-Rato
-Lobo
-Goblin
-Múmia
-Orc
-Vampiro
-Demônio
-Sistema de combate
-O combate acontece em turnos:
-
-O herói ataca
-O inimigo recebe dano
-O inimigo ataca
-O herói recebe dano
-O combate continua até alguém morrer
-Fórmula básica de dano:
-
-dano = ataque - defesa
-Sempre garantindo dano mínimo de 1.
-
-Estrutura do projeto
 =======
 # MMORPG
 Desenvolvendo um jogo estilo MMORPG, realizando todo o backEnd em java 
@@ -84,7 +25,7 @@ O jogo é um **RPG simples executado no terminal**, onde o jogador cria um heró
 
 ---
 
-# 🧙 Classes do jogo
+# Classes do jogo
 
 Cada classe possui atributos diferentes e equipamentos iniciais próprios.
 
